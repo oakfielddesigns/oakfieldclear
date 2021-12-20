@@ -26,8 +26,12 @@ footer a {
   color: lightblue;
 }
 
-p {
+p, ul {
   padding: 12px;
+}
+
+ul {
+  padding-left: 24px;
 }
 
 .title {
